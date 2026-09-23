@@ -66,6 +66,12 @@ const FICHES = [
   },
 
   // ===== AJOUTEZ VOS FICHES CI-DESSOUS =====
+  {
+    titre: "Bien manger",
+    categorie: "Nutrition",
+    texte: "Pour votre santé, mangez au moins 5 fruits et légumes par jour.",
+    auteur: "L'équipe pédagogique"
+  },
 
 
   // ===== FIN DE VOS FICHES =====
